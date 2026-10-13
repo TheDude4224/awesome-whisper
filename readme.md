@@ -141,6 +141,7 @@
 
 - [Whisper+](https://www.oneai.com/speech-to-text) - Extension of the Whisper model which adds powerful features such as speaker identification custom vocabulary, summarization, and chapter generation.
 - [Replicate](https://replicate.com/openai/whisper) - Use Whisper running on Replicate.
+- [MyAi](https://myaitoken.io/transcribe) - Batch transcription of audio URLs with Whisper large-v3-turbo, returning SRT, VTT, TXT or JSON with timestamps.
 
 ## Related lists
 
